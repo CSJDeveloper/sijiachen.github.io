@@ -21,7 +21,7 @@ repository               : "CSJDeveloper/sijiachen.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "sijiaprofile.png"
   name             : "Sijia Chen 陈思佳"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. of University of Toronto"
@@ -31,7 +31,7 @@ author:
   email            : "sjia.chen@mail.utoronto.ca" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
+  arxiv            : https://arxiv.org/user/
   googlescholar    : "https://scholar.google.ca/citations?hl=en&user=QWGJWDMAAAAJ"
   impactstory      : # URL
   # orcid            : "http://orcid.org/yourorcidurl"
@@ -43,6 +43,7 @@ author:
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
+  huggingface      : # Username
   dribbble         : # Username
   github           : "CSJDeveloper"
   kaggle           : # Username  

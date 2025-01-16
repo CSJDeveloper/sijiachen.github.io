@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Sijia's Curriculum Vitae as of December 2024.
+[Sijia's Curriculum Vitae](https://github.com/CSJDeveloper/sijiachen.github.io/blob/master/files/cv.pdf) as of December 2024.
